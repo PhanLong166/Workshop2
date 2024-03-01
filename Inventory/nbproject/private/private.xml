@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/FPTU/CN4/PRJ301/Workshop2/Inventory/src/java/controller/UserController.java</file>
+            <file>file:/E:/FPTU/CN4/PRJ301/Workshop2/Inventory/src/java/controller/LogoutController.java</file>
+            <file>file:/E:/FPTU/CN4/PRJ301/Workshop2/Inventory/src/java/controller/AdminController.java</file>
+            <file>file:/E:/FPTU/CN4/PRJ301/Workshop2/Inventory/src/java/controller/SaveController.java</file>
+            <file>file:/E:/FPTU/CN4/PRJ301/Workshop2/Inventory/web/Login.jsp</file>
+            <file>file:/E:/FPTU/CN4/PRJ301/Workshop2/Inventory/src/java/dto/Product.java</file>
+            <file>file:/E:/FPTU/CN4/PRJ301/Workshop2/Inventory/src/java/controller/DeleteController.java</file>
+            <file>file:/E:/FPTU/CN4/PRJ301/Workshop2/Inventory/src/java/controller/SearchController.java</file>
+            <file>file:/E:/FPTU/CN4/PRJ301/Workshop2/Inventory/web/Inventory.jsp</file>
+            <file>file:/E:/FPTU/CN4/PRJ301/Workshop2/Inventory/src/java/dto/User.java</file>
+            <file>file:/E:/FPTU/CN4/PRJ301/Workshop2/Inventory/src/java/controller/UpdateController.java</file>
+            <file>file:/E:/FPTU/CN4/PRJ301/Workshop2/Inventory/web/Management.jsp</file>
+            <file>file:/E:/FPTU/CN4/PRJ301/Workshop2/Inventory/src/java/controller/LoginController.java</file>
+            <file>file:/E:/FPTU/CN4/PRJ301/Workshop2/Inventory/src/java/dao/DAO.java</file>
+        </group>
+    </open-files>
+</project-private>
